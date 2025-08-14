@@ -12,5 +12,7 @@ Brady Flinchum's Research
    :caption: Research Interests
    
    rstFiles/BedrockHeterogeniety.rst
+   rstFiles/CriticalZoneResearch.rst
+   rstFiles/ResearchInterests.rst
    
 
