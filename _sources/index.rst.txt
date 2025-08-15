@@ -1,0 +1,22 @@
+.. Personal Research Blog documentation master file, created by
+   sphinx-quickstart on Tue Aug 12 15:13:44 2025.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Dr. Brady Flinchum
+===================
+
+Hi, I'm Dr. Brady Flinchum (he/him) — a geoscientist with a deep curiosity about the Earth's surface and the hidden stories beneath our feet. I explore the **Critical Zone (CZ)** — that fascinating layer stretching from treetops to bedrock, where life, water, and rock interact in complex and beautiful ways. My research uses **near-surface geophysical methods** to uncover how regolith forms and evolves, helping us better understand the physical and chemical processes that shape landscapes over time. I’m especially passionate about **shallow seismic refraction**, but I also work with tools like **GPR**, **seismic reflection**, **DC resistivity**, and **nuclear magnetic resonance** to build a more complete picture of the subsurface. I’m always learning, always listening, and always looking for new ways to connect ideas across disciplines. I believe that by sharing stories and experiences, we grow not just as researchers and teachers, but as people.
+
+Thanks for stopping by — I hope you find something here that sparks your curiosity! I am also trying something where I keep this blog on GitHub so that I can post interactive figures and the code associated with my publications.
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Research Interests
+   
+   rstFiles/BedrockHeterogeniety.rst
+   rstFiles/seismicRoots.rst
+   
+
